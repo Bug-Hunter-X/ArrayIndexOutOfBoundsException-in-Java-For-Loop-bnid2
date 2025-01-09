@@ -1,0 +1,2 @@
+# ArrayIndexOutOfBoundsException in Java
+This repository demonstrates a common Java error: the `ArrayIndexOutOfBoundsException`.  The `BuggyArray.java` file contains code that incorrectly iterates over an array, leading to this exception. The corrected code is in `FixedArray.java`. This example highlights the importance of careful array indexing in Java.
